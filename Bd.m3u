@@ -25,7 +25,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", ATN Bangla
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="",Boisakhi Tv
 #EXTINF:-1 tvg-logo="" group-title="", Nexus Tv live
 https://tvs1.aynaott.com/nexustv/index.m3u8?hdnts=st=1698270557~exp=1698313757~acl=/*~data=45.61.146.183-WEB~hmac=560829140778b7334070c84b4dcd66e18297056b99625aba882a94ae86d571cd
 #EXTINF:-1 tvg-logo="" group-title="", Global tv HD
@@ -43,6 +42,7 @@ https://tvs1.aynaott.com/bijoytv/index.m3u8?hdnts=st=1698270728~exp=1698313928~a
 #EXTINF:-1 tvg-logo="" group-title="", My Tv live
 https://tvs1.aynaott.com/mytv/index.m3u8?hdnts=st=1698270698~exp=1698313898~acl=/*~data=45.61.146.183-WEB~hmac=612c42f39092e3afaab5c6a4e21945e723ce863a6ad784213a2fb32c7671d43a
 #EXTINF:-1 tvg-logo="" group-title="", Channel 9
+#EXTINF:-1 tvg-logo="" group-title="",Boisakhi Tv
 https://tvs1.aynaott.com/channel9/index.m3u8?hdnts=st=1698270667~exp=1698313867~acl=/*~data=45.61.146.183-WEB~hmac=79bf5300f503d68cc7e5d65db5192373241b5c64825320b3743fae3dc956e303
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", News24 Live
