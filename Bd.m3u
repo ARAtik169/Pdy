@@ -69,8 +69,6 @@ https://tvs1.aynaott.com/asiantv/index.m3u8?hdnts=st=1698263909~exp=1698307109~a
 https://tvs2.aynaott.com/gtvhd/index.m3u8?hdnts=st=1698264015~exp=1698307215~acl=/*~data=45.61.146.183-WEB~hmac=9cfa5f3d02f8d1eacad61efa7ac2f882db04f2829ddc5838ac3a7bb7cc535420
 #EXTINF:-1 tvg-logo="" group-title="", Tsport
 https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1698264350~exp=1698307550~acl=/*~data=45.61.146.183-WEB~hmac=8884beddbf898123eb12eaa426e8e57e4a36fe5355b90bd261dabb8ae1f4c083
-#EXTINF:-1 tvg-logo="" group-title="", S1 Sport
-https://tvs1.aynaott.com/sspts1/index.m3u8?hdnts=st=1698264985~exp=1698308185~acl=/*~data=45.61.146.183-WEB~hmac=1a12217f5b6492ffa64e701304f3dff2785a48674c4a69497b03e4e51bfad908
 #EXTINF:-1 tvg-logo="" group-title="", Sony 8
 https://tvs1.aynaott.com/Sony8/index.m3u8?hdnts=st=1698265203~exp=1698308403~acl=/*~data=45.61.146.183-WEB~hmac=020d28903d724b687a6f18a8939bacdc2ddcdc5d00b301ae2cdcc5d3b594f73a
 #EXTINF:-1 tvg-logo="" group-title="", Sport 1
