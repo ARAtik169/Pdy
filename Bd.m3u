@@ -73,3 +73,37 @@ https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1698264350~exp=1698307550
 https://tvs1.aynaott.com/sspts1/index.m3u8?hdnts=st=1698264985~exp=1698308185~acl=/*~data=45.61.146.183-WEB~hmac=1a12217f5b6492ffa64e701304f3dff2785a48674c4a69497b03e4e51bfad908
 #EXTINF:-1 tvg-logo="" group-title="", Sony 8
 https://tvs1.aynaott.com/Sony8/index.m3u8?hdnts=st=1698265203~exp=1698308403~acl=/*~data=45.61.146.183-WEB~hmac=020d28903d724b687a6f18a8939bacdc2ddcdc5d00b301ae2cdcc5d3b594f73a
+#EXTINF:-1 tvg-logo="" group-title="", Sport 1
+https://tvs2.aynaott.com/ssps1hd/index.m3u8?hdnts=st=1698267066~exp=1698310266~acl=/*~data=45.61.146.183-WEB~hmac=09fb701ff79ea71f9c40933f7590d404fbeb894526eda0a0d59b4d2f5dbb83d6
+#EXTINF:-1 tvg-logo="" group-title="", Pbskid
+https://tvs2.aynaott.com/pbskids/index.m3u8?hdnts=st=1698267058~exp=1698310258~acl=/*~data=45.61.146.183-WEB~hmac=dfdf7c41d759791a8253ef1f054aa4a4b630e34ce458f65d60988f55d4e6bf01
+#EXTINF:-1 tvg-logo="" group-title="", Cartoon Network
+https://tvs2.aynaott.com/cartoonnetwork/index.m3u8?hdnts=st=1698267730~exp=1698310930~acl=/*~data=45.61.146.183-WEB~hmac=400e92dc1e186f9bbef3974b95987d44ba413d915857e3e4f78ed000d07560d2
+#EXTINF:-1 tvg-logo="" group-title="", Sport 2
+https://tvs2.aynaott.com/ssps2hd/index.m3u8?hdnts=st=1698267052~exp=1698310252~acl=/*~data=45.61.146.183-WEB~hmac=db4d5c4e7acc0748ee8759d9df4e5ad17674663fed2a7f76d334a4a91a256974
+#EXTINF:-1 tvg-logo="" group-title="", Sport 2 Hd
+https://tvs2.aynaott.com/ssps2hd/index.m3u8?hdnts=st=1698267014~exp=1698310214~acl=/*~data=45.61.146.183-WEB~hmac=7700326d1f8b241b9b83115c36b86f1b5b4c47745292b8b611322a009aa93cb9
+#EXTINF:-1 tvg-logo="" group-title="", Discovary Science
+https://tvs1.aynaott.com/discovery_science/index.m3u8?hdnts=st=1698267005~exp=1698310205~acl=/*~data=45.61.146.183-WEB~hmac=99c9b830aa235ec93b351e3b91aa0c286e0b1f257bbee1124ad84ba62dccadb6
+#EXTINF:-1 tvg-logo="" group-title="", Discovary Kids
+https://tvs1.aynaott.com/discovery_kids/index.m3u8?hdnts=st=1698266992~exp=1698310192~acl=/*~data=45.61.146.183-WEB~hmac=1ea463f783ae90362d90bb6c5857ae4f5cb3fded698e7e5b0213067ff8ab8476
+#EXTINF:-1 tvg-logo="" group-title="", Discovary Hd
+https://tvs1.aynaott.com/discovery_hd/index.m3u8?hdnts=st=1698266990~exp=1698310190~acl=/*~data=45.61.146.183-WEB~hmac=6b9ff959448a18301e3e8c8acd94671444b4a8473a9e5c752a48994a80f45b7e
+#EXTINF:-1 tvg-logo="" group-title="", Sony Yay
+https://tvs1.aynaott.com/SonyYay/index.m3u8?hdnts=st=1698266864~exp=1698310064~acl=/*~data=45.61.146.183-WEB~hmac=0bfc849e721f28212034863a75abf4b94a60e4a1e2c0581ffd8b60ab76ddde45
+#EXTINF:-1 tvg-logo="" group-title="", Pix Hd
+https://tvs1.aynaott.com/PixHD/index.m3u8?hdnts=st=1698266860~exp=1698310060~acl=/*~data=45.61.146.183-WEB~hmac=38c85a3f5ef7d4a5c829ffa9306d09a65b18717a02f12c2d99d7f742121b901a
+#EXTINF:-1 tvg-logo="" group-title="", Sony Hd
+https://tvs2.aynaott.com/SonyHD/index.m3u8?hdnts=st=1698266851~exp=1698310051~acl=/*~data=45.61.146.183-WEB~hmac=a0b78d13d184123649137391d74a81f61e3062e4fcc3e308fe25d298d96de15c
+#EXTINF:-1 tvg-logo="" group-title="", Sab Hd
+https://tvs1.aynaott.com/SabHD/index.m3u8?hdnts=st=1698266841~exp=1698310041~acl=/*~data=45.61.146.183-WEB~hmac=974042b1c7eefd5fd22350df3ad9af5fe088363adfe072e066080a418d925ff2
+#EXTINF:-1 tvg-logo="" group-title="", Sony Wah
+https://tvs1.aynaott.com/SonyWah/index.m3u8?hdnts=st=1698266826~exp=1698310026~acl=/*~data=45.61.146.183-WEB~hmac=e70c8aeb7236499c23e41055ca385371fd0180a4545456e6c8aa9e851f9b4f97
+#EXTINF:-1 tvg-logo="" group-title="", Sony Max Hd
+https://tvs1.aynaott.com/MaxHD/index.m3u8?hdnts=st=1698266760~exp=1698309960~acl=/*~data=45.61.146.183-WEB~hmac=fa5a20f62893273b136c0b9cb3f6b9880269155b8ad6f30c22314e956ccb2385
+#EXTINF:-1 tvg-logo="" group-title="", Sony Max 2 HD
+https://tvs1.aynaott.com/SonyMax2/index.m3u8?hdnts=st=1698265295~exp=1698308495~acl=/*~data=45.61.146.183-WEB~hmac=f9f99549e9ddae425ff524eb8fbc811148e27e829b23dccfac0d8eb992dcc0be
+#EXTINF:-1 tvg-logo="" group-title="", B4Music
+https://tvs1.aynaott.com/b4umusic/index.m3u8?hdnts=st=1698267101~exp=1698310301~acl=/*~data=45.61.146.183-WEB~hmac=7f8012eac42063f687e7ce0a19af565f4d9b53504f1299c2a3f6034752ed4a55
+#EXTINF:-1 tvg-logo="" group-title="", Sangeet Bangla
+https://tvs1.aynaott.com/SangeetBangla/index.m3u8?hdnts=st=1698267632~exp=1698310832~acl=/*~data=45.61.146.183-WEB~hmac=491510ad59efcef996e7f0493e7f01944e51cdee8b41266262c3f0caf2802022
