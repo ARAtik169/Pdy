@@ -25,13 +25,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News", JAMUNA
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", ATN
+#EXTINF:-1 tvg-logo="" group-title="", ATN Bangla
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="",Boisakhi Tv
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News", News 24
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News", Independence 
+#EXTINF:-1 tvg-logo="" group-title="News", Independence News
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movie", SA Tv
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
@@ -47,33 +47,33 @@ https://tvs1.aynaott.com/etv/index.m3u8?hdnts=st=1698263491~exp=1698306691~acl=/
 https://tvs1.aynaott.com/mohonatv/index.m3u8?hdnts=st=1698263442~exp=1698306642~acl=/*~data=45.61.146.183-WEB~hmac=19cb1068c3937d1fa2d96755f3d5c84eff9ac117989be57b3aca80bf7138edfe
 #EXTINF:-1 tvg-logo="" group-title="",Bangla Tv
 https://tvs1.aynaott.com/banglatv/index.m3u8?hdnts=st=1698263393~exp=1698306593~acl=/*~data=45.61.146.183-WEB~hmac=7b259281b505376a1b993d164405e0d209da2cf5d629dc958ae429be19d7bdc4
-#EXTINF:-1 tvg-logo="" group-title="", Ekattor
+#EXTINF:-1 tvg-logo="" group-title="", Ekattor Tv
 https://tvs1.aynaott.com/ekattorbdtv/index.m3u8?hdnts=st=1698263339~exp=1698306539~acl=/*~data=45.61.146.183-WEB~hmac=1cf8eafa6fc404e08ae2ebe23f1dfaa223a9eb9d0d04b8261e670ef18c4b7758
 #EXTINF:-1 tvg-logo="" group-title="", Btv World
 https://tvs1.aynaott.com/btv_world/index.m3u8?hdnts=st=1698263260~exp=1698306460~acl=/*~data=45.61.146.183-WEB~hmac=23158d49de4cccfc7e6d188cec110cec227d09d2d9e8211a353dcd36ba53de74
-#EXTINF:-1 tvg-logo="" group-title="", Btv Hd
+#EXTINF:-1 tvg-logo="" group-title="", Btv HD
 https://tvs1.aynaott.com/btvhd/index.m3u8?hdnts=st=1698263203~exp=1698306403~acl=/*~data=45.61.146.183-WEB~hmac=813057f031806cee79e0c49e54a2651a9b058a742861d9cf4386132797a41a19
 #EXTINF:-1 tvg-logo="" group-title="", Ntv
 https://tvs2.aynaott.com/ntv/index.m3u8?hdnts=st=1698262828~exp=1698306028~acl=/*~data=45.61.146.183-WEB~hmac=02c7d0ff4c335c2085bf3a9c7ceaac1b924ce6ab2faab02a1115db4ab55a95cc
-#EXTINF:-1 tvg-logo="" group-title="", Bnagla Vision
+#EXTINF:-1 tvg-logo="" group-title="", Bangla Vision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title=",Masranga
+#EXTINF:-1 tvg-logo="" group-title=", Masranga Tv
 https://tvs1.aynaott.com/maasrangatv/index.m3u8?hdnts=st=1698264236~exp=1698307436~acl=/*~data=45.61.146.183-WEB~hmac=1a1fd29972fbfc0f4730b482f45ced9480950c46644226b8ba526731e2c48074
-#EXTINF:-1 tvg-logo="" group-title="", Zee Bangla
+#EXTINF:-1 tvg-logo="" group-title="", Zee Bangla HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", SA
+#EXTINF:-1 tvg-logo="" group-title="", SA Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Asian
+#EXTINF:-1 tvg-logo="" group-title="", Asian Tv
 https://tvs1.aynaott.com/asiantv/index.m3u8?hdnts=st=1698263909~exp=1698307109~acl=/*~data=45.61.146.183-WEB~hmac=c4c3bac1c4c899c8389a2f8d8015f7abba2f8f07039f4c9005e3e00028be1acc
 #EXTINF:-1 tvg-logo="" group-title="", Gtv Hd
 https://tvs2.aynaott.com/gtvhd/index.m3u8?hdnts=st=1698264015~exp=1698307215~acl=/*~data=45.61.146.183-WEB~hmac=9cfa5f3d02f8d1eacad61efa7ac2f882db04f2829ddc5838ac3a7bb7cc535420
 #EXTINF:-1 tvg-logo="" group-title="", Tsport
 https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1698264350~exp=1698307550~acl=/*~data=45.61.146.183-WEB~hmac=8884beddbf898123eb12eaa426e8e57e4a36fe5355b90bd261dabb8ae1f4c083
-#EXTINF:-1 tvg-logo="" group-title="", Sony 8
+#EXTINF:-1 tvg-logo="" group-title="", Sony Aath
 https://tvs1.aynaott.com/Sony8/index.m3u8?hdnts=st=1698265203~exp=1698308403~acl=/*~data=45.61.146.183-WEB~hmac=020d28903d724b687a6f18a8939bacdc2ddcdc5d00b301ae2cdcc5d3b594f73a
 #EXTINF:-1 tvg-logo="" group-title="", Sport 1
 https://tvs2.aynaott.com/ssps1hd/index.m3u8?hdnts=st=1698267066~exp=1698310266~acl=/*~data=45.61.146.183-WEB~hmac=09fb701ff79ea71f9c40933f7590d404fbeb894526eda0a0d59b4d2f5dbb83d6
-#EXTINF:-1 tvg-logo="" group-title="", Pbskid
+#EXTINF:-1 tvg-logo="" group-title="", PBS Kids
 https://tvs2.aynaott.com/pbskids/index.m3u8?hdnts=st=1698267058~exp=1698310258~acl=/*~data=45.61.146.183-WEB~hmac=dfdf7c41d759791a8253ef1f054aa4a4b630e34ce458f65d60988f55d4e6bf01
 #EXTINF:-1 tvg-logo="" group-title="", Cartoon Network
 https://tvs2.aynaott.com/cartoonnetwork/index.m3u8?hdnts=st=1698267730~exp=1698310930~acl=/*~data=45.61.146.183-WEB~hmac=400e92dc1e186f9bbef3974b95987d44ba413d915857e3e4f78ed000d07560d2
@@ -91,17 +91,17 @@ https://tvs1.aynaott.com/discovery_hd/index.m3u8?hdnts=st=1698266990~exp=1698310
 https://tvs1.aynaott.com/SonyYay/index.m3u8?hdnts=st=1698266864~exp=1698310064~acl=/*~data=45.61.146.183-WEB~hmac=0bfc849e721f28212034863a75abf4b94a60e4a1e2c0581ffd8b60ab76ddde45
 #EXTINF:-1 tvg-logo="" group-title="", Pix Hd
 https://tvs1.aynaott.com/PixHD/index.m3u8?hdnts=st=1698266860~exp=1698310060~acl=/*~data=45.61.146.183-WEB~hmac=38c85a3f5ef7d4a5c829ffa9306d09a65b18717a02f12c2d99d7f742121b901a
-#EXTINF:-1 tvg-logo="" group-title="", Sony Hd
+#EXTINF:-1 tvg-logo="" group-title="", Sony Entertainment HD
 https://tvs2.aynaott.com/SonyHD/index.m3u8?hdnts=st=1698266851~exp=1698310051~acl=/*~data=45.61.146.183-WEB~hmac=a0b78d13d184123649137391d74a81f61e3062e4fcc3e308fe25d298d96de15c
-#EXTINF:-1 tvg-logo="" group-title="", Sab Hd
+#EXTINF:-1 tvg-logo="" group-title="", Sony Sab HD
 https://tvs1.aynaott.com/SabHD/index.m3u8?hdnts=st=1698266841~exp=1698310041~acl=/*~data=45.61.146.183-WEB~hmac=974042b1c7eefd5fd22350df3ad9af5fe088363adfe072e066080a418d925ff2
 #EXTINF:-1 tvg-logo="" group-title="", Sony Wah
 https://tvs1.aynaott.com/SonyWah/index.m3u8?hdnts=st=1698266826~exp=1698310026~acl=/*~data=45.61.146.183-WEB~hmac=e70c8aeb7236499c23e41055ca385371fd0180a4545456e6c8aa9e851f9b4f97
-#EXTINF:-1 tvg-logo="" group-title="", Sony Max Hd
+#EXTINF:-1 tvg-logo="" group-title="", Sony Max HD
 https://tvs1.aynaott.com/MaxHD/index.m3u8?hdnts=st=1698266760~exp=1698309960~acl=/*~data=45.61.146.183-WEB~hmac=fa5a20f62893273b136c0b9cb3f6b9880269155b8ad6f30c22314e956ccb2385
 #EXTINF:-1 tvg-logo="" group-title="", Sony Max 2 HD
 https://tvs1.aynaott.com/SonyMax2/index.m3u8?hdnts=st=1698265295~exp=1698308495~acl=/*~data=45.61.146.183-WEB~hmac=f9f99549e9ddae425ff524eb8fbc811148e27e829b23dccfac0d8eb992dcc0be
-#EXTINF:-1 tvg-logo="" group-title="", B4Music
+#EXTINF:-1 tvg-logo="" group-title="", B4u Music
 https://tvs1.aynaott.com/b4umusic/index.m3u8?hdnts=st=1698267101~exp=1698310301~acl=/*~data=45.61.146.183-WEB~hmac=7f8012eac42063f687e7ce0a19af565f4d9b53504f1299c2a3f6034752ed4a55
 #EXTINF:-1 tvg-logo="" group-title="", Sangeet Bangla
 https://tvs1.aynaott.com/SangeetBangla/index.m3u8?hdnts=st=1698267632~exp=1698310832~acl=/*~data=45.61.146.183-WEB~hmac=491510ad59efcef996e7f0493e7f01944e51cdee8b41266262c3f0caf2802022
