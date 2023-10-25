@@ -21,16 +21,32 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News", Channel I
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cartoon",Nick Hd+
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News", JAMUNA
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", ATN Bangla
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="",Boisakhi Tv
+#EXTINF:-1 tvg-logo="" group-title="", Nexus Tv live
+https://tvs1.aynaott.com/nexustv/index.m3u8?hdnts=st=1698270557~exp=1698313757~acl=/*~data=45.61.146.183-WEB~hmac=560829140778b7334070c84b4dcd66e18297056b99625aba882a94ae86d571cd
+#EXTINF:-1 tvg-logo="" group-title="", Global tv HD
+https://tvs1.aynaott.com/globaltvhd/index.m3u8?hdnts=st=1698270527~exp=1698313727~acl=/*~data=45.61.146.183-WEB~hmac=0d2da2e7aff572995569c12df8f0a123413d99f0c80b9436e6abac2796df0114
+#EXTINF:-1 tvg-logo="" group-title="", Green Tv
+https://tvs1.aynaott.com/greentv/index.m3u8?hdnts=st=1698270503~exp=1698313703~acl=/*~data=45.61.146.183-WEB~hmac=d9993507971853ddcc412ab09a0eb2fc5a27aba493a6b6b4f2d578162b30bb86
+#EXTINF:-1 tvg-logo="" group-title="", Duronto Tv
+https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1698270477~exp=1698313677~acl=/*~data=45.61.146.183-WEB~hmac=d6f9d83648e876dd4ba62afa42f61a3b0a0a4092440b6042d869e01d978f79a6
+#EXTINF:-1 tvg-logo="" group-title="", Ekhon Tv
+https://tvs1.aynaott.com/ekhontv/index.m3u8?hdnts=st=1698270364~exp=1698313564~acl=/*~data=45.61.146.183-WEB~hmac=ec59681f79c96989e120a21e977590b64be4504577287cc73d40364c22c544a3
+#EXTINF:-1 tvg-logo="" group-title="", ATN News Live
+https://tvs1.aynaott.com/atnnews/index.m3u8?hdnts=st=1698270223~exp=1698313423~acl=/*~data=45.61.146.183-WEB~hmac=1f1e8218d26dfdeda9972e6966853ea6bd341b1daefc1c2947d3b9b8cf01da16
+#EXTINF:-1 tvg-logo="" group-title="", Bijoy Tv live
+https://tvs1.aynaott.com/bijoytv/index.m3u8?hdnts=st=1698270728~exp=1698313928~acl=/*~data=45.61.146.183-WEB~hmac=31badd4d1fd6cd531a6bb3ade746c5b71aaf550fa777a1f5f9c1e068f0928c4a
+#EXTINF:-1 tvg-logo="" group-title="", My Tv live
+https://tvs1.aynaott.com/mytv/index.m3u8?hdnts=st=1698270698~exp=1698313898~acl=/*~data=45.61.146.183-WEB~hmac=612c42f39092e3afaab5c6a4e21945e723ce863a6ad784213a2fb32c7671d43a
+#EXTINF:-1 tvg-logo="" group-title="", Channel 9
+https://tvs1.aynaott.com/channel9/index.m3u8?hdnts=st=1698270667~exp=1698313867~acl=/*~data=45.61.146.183-WEB~hmac=79bf5300f503d68cc7e5d65db5192373241b5c64825320b3743fae3dc956e303
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News", News 24
-https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", News24 Live
+https://tvs1.aynaott.com/news24/index.m3u8?hdnts=st=1698270581~exp=1698313781~acl=/*~data=45.61.146.183-WEB~hmac=2a9ab8d896fa4a1abeb0fba3ca64ce290d78e67accdb23248a6ef2181960d5c9
 #EXTINF:-1 tvg-logo="" group-title="News", Independence News
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movie", SA Tv
@@ -65,11 +81,11 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Asian Tv
 https://tvs1.aynaott.com/asiantv/index.m3u8?hdnts=st=1698263909~exp=1698307109~acl=/*~data=45.61.146.183-WEB~hmac=c4c3bac1c4c899c8389a2f8d8015f7abba2f8f07039f4c9005e3e00028be1acc
-#EXTINF:-1 tvg-logo="" group-title="", Gtv Hd
+#EXTINF:-1 tvg-logo="" group-title="", Gtv Live
 https://tvs2.aynaott.com/gtvhd/index.m3u8?hdnts=st=1698264015~exp=1698307215~acl=/*~data=45.61.146.183-WEB~hmac=9cfa5f3d02f8d1eacad61efa7ac2f882db04f2829ddc5838ac3a7bb7cc535420
-#EXTINF:-1 tvg-logo="" group-title="", Tsport
+#EXTINF:-1 tvg-logo="" group-title="", Tsport HD live
 https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1698264350~exp=1698307550~acl=/*~data=45.61.146.183-WEB~hmac=8884beddbf898123eb12eaa426e8e57e4a36fe5355b90bd261dabb8ae1f4c083
-#EXTINF:-1 tvg-logo="" group-title="", Sony Aath
+#EXTINF:-1 tvg-logo="" group-title="", Sony Aath Live
 https://tvs1.aynaott.com/Sony8/index.m3u8?hdnts=st=1698265203~exp=1698308403~acl=/*~data=45.61.146.183-WEB~hmac=020d28903d724b687a6f18a8939bacdc2ddcdc5d00b301ae2cdcc5d3b594f73a
 #EXTINF:-1 tvg-logo="" group-title="", Sport 1
 https://tvs2.aynaott.com/ssps1hd/index.m3u8?hdnts=st=1698267066~exp=1698310266~acl=/*~data=45.61.146.183-WEB~hmac=09fb701ff79ea71f9c40933f7590d404fbeb894526eda0a0d59b4d2f5dbb83d6
@@ -77,31 +93,31 @@ https://tvs2.aynaott.com/ssps1hd/index.m3u8?hdnts=st=1698267066~exp=1698310266~a
 https://tvs2.aynaott.com/pbskids/index.m3u8?hdnts=st=1698267058~exp=1698310258~acl=/*~data=45.61.146.183-WEB~hmac=dfdf7c41d759791a8253ef1f054aa4a4b630e34ce458f65d60988f55d4e6bf01
 #EXTINF:-1 tvg-logo="" group-title="", Cartoon Network
 https://tvs2.aynaott.com/cartoonnetwork/index.m3u8?hdnts=st=1698267730~exp=1698310930~acl=/*~data=45.61.146.183-WEB~hmac=400e92dc1e186f9bbef3974b95987d44ba413d915857e3e4f78ed000d07560d2
-#EXTINF:-1 tvg-logo="" group-title="", Sport 2
+#EXTINF:-1 tvg-logo="" group-title="", Sport 2 Live
 https://tvs2.aynaott.com/ssps2hd/index.m3u8?hdnts=st=1698267052~exp=1698310252~acl=/*~data=45.61.146.183-WEB~hmac=db4d5c4e7acc0748ee8759d9df4e5ad17674663fed2a7f76d334a4a91a256974
 #EXTINF:-1 tvg-logo="" group-title="", Sport 2 Hd
 https://tvs2.aynaott.com/ssps2hd/index.m3u8?hdnts=st=1698267014~exp=1698310214~acl=/*~data=45.61.146.183-WEB~hmac=7700326d1f8b241b9b83115c36b86f1b5b4c47745292b8b611322a009aa93cb9
-#EXTINF:-1 tvg-logo="" group-title="", Discovary Science
+#EXTINF:-1 tvg-logo="" group-title="", Discovary Science Live
 https://tvs1.aynaott.com/discovery_science/index.m3u8?hdnts=st=1698267005~exp=1698310205~acl=/*~data=45.61.146.183-WEB~hmac=99c9b830aa235ec93b351e3b91aa0c286e0b1f257bbee1124ad84ba62dccadb6
-#EXTINF:-1 tvg-logo="" group-title="", Discovary Kids
+#EXTINF:-1 tvg-logo="" group-title="", Discovary Kids Live 
 https://tvs1.aynaott.com/discovery_kids/index.m3u8?hdnts=st=1698266992~exp=1698310192~acl=/*~data=45.61.146.183-WEB~hmac=1ea463f783ae90362d90bb6c5857ae4f5cb3fded698e7e5b0213067ff8ab8476
-#EXTINF:-1 tvg-logo="" group-title="", Discovary Hd
+#EXTINF:-1 tvg-logo="" group-title="", Discovary Hd Live 
 https://tvs1.aynaott.com/discovery_hd/index.m3u8?hdnts=st=1698266990~exp=1698310190~acl=/*~data=45.61.146.183-WEB~hmac=6b9ff959448a18301e3e8c8acd94671444b4a8473a9e5c752a48994a80f45b7e
-#EXTINF:-1 tvg-logo="" group-title="", Sony Yay
+#EXTINF:-1 tvg-logo="" group-title="", Sony Yay Live
 https://tvs1.aynaott.com/SonyYay/index.m3u8?hdnts=st=1698266864~exp=1698310064~acl=/*~data=45.61.146.183-WEB~hmac=0bfc849e721f28212034863a75abf4b94a60e4a1e2c0581ffd8b60ab76ddde45
-#EXTINF:-1 tvg-logo="" group-title="", Pix Hd
+#EXTINF:-1 tvg-logo="" group-title="", Sony Pix Hd Live
 https://tvs1.aynaott.com/PixHD/index.m3u8?hdnts=st=1698266860~exp=1698310060~acl=/*~data=45.61.146.183-WEB~hmac=38c85a3f5ef7d4a5c829ffa9306d09a65b18717a02f12c2d99d7f742121b901a
 #EXTINF:-1 tvg-logo="" group-title="", Sony Entertainment HD
 https://tvs2.aynaott.com/SonyHD/index.m3u8?hdnts=st=1698266851~exp=1698310051~acl=/*~data=45.61.146.183-WEB~hmac=a0b78d13d184123649137391d74a81f61e3062e4fcc3e308fe25d298d96de15c
 #EXTINF:-1 tvg-logo="" group-title="", Sony Sab HD
 https://tvs1.aynaott.com/SabHD/index.m3u8?hdnts=st=1698266841~exp=1698310041~acl=/*~data=45.61.146.183-WEB~hmac=974042b1c7eefd5fd22350df3ad9af5fe088363adfe072e066080a418d925ff2
-#EXTINF:-1 tvg-logo="" group-title="", Sony Wah
+#EXTINF:-1 tvg-logo="" group-title="", Sony Wah Live
 https://tvs1.aynaott.com/SonyWah/index.m3u8?hdnts=st=1698266826~exp=1698310026~acl=/*~data=45.61.146.183-WEB~hmac=e70c8aeb7236499c23e41055ca385371fd0180a4545456e6c8aa9e851f9b4f97
-#EXTINF:-1 tvg-logo="" group-title="", Sony Max HD
+#EXTINF:-1 tvg-logo="" group-title="", Sony Max HD Live
 https://tvs1.aynaott.com/MaxHD/index.m3u8?hdnts=st=1698266760~exp=1698309960~acl=/*~data=45.61.146.183-WEB~hmac=fa5a20f62893273b136c0b9cb3f6b9880269155b8ad6f30c22314e956ccb2385
-#EXTINF:-1 tvg-logo="" group-title="", Sony Max 2 HD
+#EXTINF:-1 tvg-logo="" group-title="", Sony Max 2 HD Live
 https://tvs1.aynaott.com/SonyMax2/index.m3u8?hdnts=st=1698265295~exp=1698308495~acl=/*~data=45.61.146.183-WEB~hmac=f9f99549e9ddae425ff524eb8fbc811148e27e829b23dccfac0d8eb992dcc0be
-#EXTINF:-1 tvg-logo="" group-title="", B4u Music
+#EXTINF:-1 tvg-logo="" group-title="", B4u Music Live
 https://tvs1.aynaott.com/b4umusic/index.m3u8?hdnts=st=1698267101~exp=1698310301~acl=/*~data=45.61.146.183-WEB~hmac=7f8012eac42063f687e7ce0a19af565f4d9b53504f1299c2a3f6034752ed4a55
 #EXTINF:-1 tvg-logo="" group-title="", Sangeet Bangla
 https://tvs1.aynaott.com/SangeetBangla/index.m3u8?hdnts=st=1698267632~exp=1698310832~acl=/*~data=45.61.146.183-WEB~hmac=491510ad59efcef996e7f0493e7f01944e51cdee8b41266262c3f0caf2802022
