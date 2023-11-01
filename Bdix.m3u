@@ -11,7 +11,7 @@ http://10.20.30.30:8888/LiveEvent-4/video.m3u8
 http://10.20.30.30:8888/LiveEvent-5/video.m3u8
 #EXTINF:-1 tvg-logo="http://10.20.30.40/img/News.png" group-title="News",News
 http://10.20.30.30:8888/LiveEvent-6/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Gtv 
+#EXTINF:-1 tvg-logo="" group-title="",Gtv 
 http://103.175.242.10:8080/live/gtv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", TSport
+#EXTINF:-1 tvg-logo="" group-title="",Tsport
 http://103.175.242.10:8080/Tsports3/index.m3u8
