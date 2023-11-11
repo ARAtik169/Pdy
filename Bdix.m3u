@@ -49,5 +49,22 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 https://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Nick
 http://187.95.95.247/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="Sport", Star Sport 1
+http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Star Sport 2
+http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/12.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Star Sport 3
+http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/13.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Star Sport 3 Select 
+http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/14.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", P sport
+http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/6.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="", Sony sport 1
+http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/08.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sony Sport 3 Hindi
+http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Sony Sport 5
+http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/11.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sport 18
+http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/05.m3u8
 Gtv , Tsport? 1 ,2 , 4 ,6 egulo dilei channel
