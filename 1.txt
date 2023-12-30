@@ -1,1 +1,1 @@
-y
+vless://59ba0934-1f07-43b4-b4ee-56477764cd58@162.159.140.115:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=sg2.servervless.de&type=ws#sshocean-njdjdjd
