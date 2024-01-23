@@ -1,73 +1,24 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://10.20.30.40/img/NZvsAFG_1.png" group-title="Sport",ESPN
-http://10.20.30.30:8888/LiveEvent-1/video.m3u8
-#EXTINF:-1 tvg-logo="http://10.20.30.40/img/NZvsAFG_2.png" group-title="Sport",A SPORT
-http://10.20.30.30:8888/LiveEvent-2/video.m3u8
-#EXTINF:-1 tvg-logo="http://10.20.30.40/img/cwc_100.png" group-title="Sport",Fox HD
-http://10.20.30.30:8888/LiveEvent-3/video.m3u8
-#EXTINF:-1 tvg-logo="http://10.20.30.40/img/LiveEvent-1.png" group-title="Sport",S Cricket
-http://10.20.30.30:8888/LiveEvent-4/video.m3u8
-#EXTINF:-1 tvg-logo="http://10.20.30.40/img/LiveEvent-2.png" group-title="Sport",Ten Sport
-http://10.20.30.30:8888/LiveEvent-5/video.m3u8
-#EXTINF:-1 tvg-logo="http://10.20.30.40/img/News.png" group-title="News",News
-http://10.20.30.30:8888/LiveEvent-6/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Gtv 
-http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Tsport
-http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Global Tv
-https://tempskyview.jagobd.com:441/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", ATN Bangla
-https://tempskyview.jagobd.com:441/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Anada Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", SA Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Boishakhi Tv
-https://tempskyview.jagobd.com:441/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", DBC News
-https://tempskyview.jagobd.com:441/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Somoy Tv 
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyMyA2OjUxOjIyIEFNJmhhc2hfdmFsdWU9ZnhyV29wQW5qdEtVb2x2SGQxcXRUdz09JnZhbGlkbWludXRlcz0yMjA=
-#EXTINF:-1 tvg-logo="" group-title="", Asian 
-http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", RTv
-http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Channel I 
-https://tempskyview.jagobd.com:441/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Jamuna tv
-https://tempskyview.jagobd.com:441/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Independent News
-https://tempskyview.jagobd.com:441/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Channel 24
-https://tempskyview.jagobd.com:441/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Bangla vision
-https://tempskyview.jagobd.com:441/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Sony Aath
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Zee Bangla HD 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Khusbo Bangla 
-https://idvd.multitvsolution.com/idvo/khushboo.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Nick
-http://187.95.95.247/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport", Star Sport 1
-http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Star Sport 2
-http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/12.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Star Sport 3
-http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/13.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Star Sport 3 Select 
-http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/14.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", P sport
-http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/6.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="", Sony sport 1
-http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/08.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Sony Sport 3 Hindi
-http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Sony Sport 5
-http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/11.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Sport 18 1
-http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/05.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",
-Gtv , Tsport? 1 ,2 , 4 ,6 egulo dilei channel
+https://nayeem-parvez.pw/api/ayna.m3u8?id=213&e=.m3u8|User-Agent=pukayna
+#EXTINF:-1 tvg-id="214" tvg-name="SSC Extra 1 HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/679f5f4e-64a8-4965-97bc-06bb56997645_180x180_SSCExtra1HD.jpeg" tvg-chno="214" group-title="Ayna OTT by @the_nayeemparvez",SSC Extra 1 HD
+https://nayeem-parvez.pw/api/ayna.m3u8?id=214&e=.m3u8|User-Agent=pukayna
+#EXTINF:-1 tvg-id="215" tvg-name="Zee Bangla Cinema" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/794347ed-ed16-4fb7-be30-a78218fb5f85_180x180_ZeeBanglaCinema.jpg" tvg-chno="215" group-title="Ayna OTT by @the_nayeemparvez",Zee Bangla Cinema
+https://nayeem-parvez.pw/api/ayna.m3u8?id=215&e=.m3u8|User-Agent=pukayna
+#EXTINF:-1 tvg-id="216" tvg-name="BEST ACTION TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4ad339b5-37f9-4b14-a9b7-43421db1cca0_180x180_BESTACTIONTV.jpg" tvg-chno="216" group-title="Ayna OTT by @the_nayeemparvez",BEST ACTION TV
+https://nayeem-parvez.pw/api/ayna.m3u8?id=216&e=.m3u8|User-Agent=pukayna
+#EXTINF:-1 tvg-id="217" tvg-name="BEST THRILLER TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/eeae6144-9072-4c7d-a722-43c21edc7aaa_180x180_BESTTHRILLERTV501.jpg" tvg-chno="217" group-title="Ayna OTT by @the_nayeemparvez",BEST THRILLER TV
+https://nayeem-parvez.pw/api/ayna.m3u8?id=217&e=.m3u8|User-Agent=pukayna
+#EXTINF:-1 tvg-id="218" tvg-name="CHRONO TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c69bb6fa-55b7-43e8-b630-de0a52a5fc49_180x180_CHRONOTVcopie.jpg" tvg-chno="218" group-title="Ayna OTT by @the_nayeemparvez",CHRONO TV
+https://nayeem-parvez.pw/api/ayna.m3u8?id=218&e=.m3u8|User-Agent=pukayna
+#EXTINF:-1 tvg-id="219" tvg-name="BEANI KIDS TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1b73d516-444f-4004-85a8-239de8409ba3_180x180_KIDS503.jpg" tvg-chno="219" group-title="Ayna OTT by @the_nayeemparvez",BEANI KIDS TV
+https://nayeem-parvez.pw/api/ayna.m3u8?id=219&e=.m3u8|User-Agent=pukayna
+#EXTINF:-1 tvg-id="220" tvg-name="KUNG FU+" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9ecbbe8f-e5a2-46a3-9d6c-c76d6e5625b3_180x180_KUNGFU+504.jpg" tvg-chno="220" group-title="Ayna OTT by @the_nayeemparvez",KUNG FU+
+https://nayeem-parvez.pw/api/ayna.m3u8?id=220&e=.m3u8|User-Agent=pukayna
+#EXTINF:-1 tvg-id="221" tvg-name="SPORT FISHING TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f6021804-959e-4e8c-9045-b9fbbcd5ce82_180x180_505.jpg" tvg-chno="221" group-title="Ayna OTT by @the_nayeemparvez",SPORT FISHING TV
+https://nayeem-parvez.pw/api/ayna.m3u8?id=221&e=.m3u8|User-Agent=pukayna
+#EXTINF:-1 tvg-id="222" tvg-name="PRIME FIGHT HD TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f0ac143c-793e-4589-9d17-1b56958dac39_180x180_PRIMEFIGHT.jpg" tvg-chno="222" group-title="Ayna OTT by @the_nayeemparvez",PRIME FIGHT HD TV
+https://nayeem-parvez.pw/api/ayna.m3u8?id=222&e=.m3u8|User-Agent=pukayna
+#EXTINF:-1 tvg-id="223" tvg-name="BABY FIRST" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c4def3d3-4ef4-4401-bbbe-c6752c3fe48c_180x180_babyfirst_logo_2019.jpg" tvg-chno="223" group-title="Ayna OTT by @the_nayeemparvez",BABY FIRST
+https://nayeem-parvez.pw/api/ayna.m3u8?id=223&e=.m3u8|User-Agent=pukayna
+#EXTINF:-1 tvg-id="224" tvg-name="COLOUR BLIND" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4b3b0dbd-2aa1-4c0a-8516-9f4706711a54_180x180_ColourBlind(logo)copie.jpg" tvg-chno="224" group-title="Ayna OTT by @the_nayeemparvez",COLOUR BLIND
+https://nayeem-parvez.pw/api/ayna.m3u8?id=224&e=.m3u8|User-Agent=pukayna
+#EXTINF:-1 tvg-id="225" tvg-name="BOLLYWOOD 4U" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b81412fe-c4c7-417a-af81-05e7ca8aadc2_180x180_Bollywood4ulogo.jpg" tvg-chno="225" group-title="Ayna OTT by @the_nayeemparvez",BOLLYWOOD 4U
